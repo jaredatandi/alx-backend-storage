@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""Count url requests
+
+    Returns:
+        _type_: _description_
+"""
+
 import redis
 import requests
 
